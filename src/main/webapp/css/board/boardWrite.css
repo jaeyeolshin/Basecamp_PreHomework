@@ -1,0 +1,11 @@
+#writeDiv{ width:1000px; margin:40px auto 0 auto; }
+
+#writeTable { margin:0 auto; }
+
+#writeTable th{ width:120px; }
+
+#writeTable tr{	height:60px; }
+
+#writeTable td{ width:300px; }
+
+#content{ width:100%; resize:none; wrap:hard; }

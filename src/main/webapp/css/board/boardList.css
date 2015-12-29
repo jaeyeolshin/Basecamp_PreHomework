@@ -1,0 +1,17 @@
+#listDiv{ width:1000px; margin:40px auto 0 auto; }
+
+#editBtnCol, #delBtnCol{ width:30px; padding-left:0; padding-right:3px; }
+
+#write{	float:right; }
+
+#docNum{ width:60px; text-align:center; }
+
+#docEmail{ width:150px; text-align:center; }
+
+#docContent{ width:300px; text-align:center; }
+
+#docDate{ width:90px; text-align:center; }
+
+#docEDate{ width:90px; text-align:center; }
+
+.docNum{ text-align:center; }
